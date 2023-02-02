@@ -6,7 +6,7 @@
 
 - 💞️ I’m willing to collaborate on anything that will teach me how to do this complicated task.
 
-- 📫 You can find me on GitHub, of course, also, follow my project at it's discord server, Sunset City Processing.
+- 📫 You can find me on GitHub, of course, also, follow my projects at their discord server, Sunset City Processing.
 
 <!---
 unixportadmin22/unixportadmin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
