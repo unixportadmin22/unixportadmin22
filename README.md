@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @unixportadmin22, and I'm trying to learn how to code.
+- 👋 Hi, I’m @unixportadmin22, and I'm designing a modern 8-bit computer.
 
-- 👀 I’m interested in the Java, Swift, and C programming languages, retro technology, and Sun Microsystems.
+- 👀 As result of this, I’m interested in the Electricity, Assembly, and C programming languages, Retro Technology, and Digital Logic.
 
-- 🌱 I’m currently learning nothing. I have the desire and brain to code, but the syntax and endless libraries of most programming languages I've tried seem to mess me up. Don't really have the best focus or resolve either.
+- 🌱 I’m currently learning as I go. First version on breadboards, then PCB.
 
-- 💞️ I’m willing to collaborate on anything that will teach me how to do this complicated yet beautiful art. (also basic interpreters)
+- 💞️ I’m willing to collaborate on anything that will teach me how to do this complicated task.
 
-- 📫 You can find me on GitHub, of course, but I also will have a website soon, and I have a Twitter at @Raccoon_Unix. I'll consider getting other social platforms, but absolutely NO Facebook. I am NOT calling it Meta, no matter how much they try to rebrand.
+- 📫 You can find me on GitHub, of course, also, follow my project at it's discord server, Sunset City Processing.
 
 <!---
 unixportadmin22/unixportadmin22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
